@@ -1,0 +1,17 @@
+{
+  "platformId" : null,
+  "gameId" : 3270168848,
+  "gameCreationTime" : 1579485371332,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "LOL",
+    "sentTo" : "All",
+    "gameTime" : 899053000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "does anyone not play the broken champs",
+    "sentTo" : "All",
+    "gameTime" : 1178293000
+  } ],
+  "success" : true
+}

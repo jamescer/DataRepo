@@ -1,0 +1,67 @@
+{
+  "platformId" : null,
+  "gameId" : 3261727551,
+  "gameCreationTime" : 1578862645992,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "sej top",
+    "sentTo" : "CHAOS",
+    "gameTime" : 413435000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "4 bot",
+    "sentTo" : "CHAOS",
+    "gameTime" : 514042000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "lol",
+    "sentTo" : "CHAOS",
+    "gameTime" : 514868000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "bruh",
+    "sentTo" : "CHAOS",
+    "gameTime" : 788856000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "drag is up wyd",
+    "sentTo" : "CHAOS",
+    "gameTime" : 791169000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "j4 dawg wtf",
+    "sentTo" : "CHAOS",
+    "gameTime" : 854066000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "lol",
+    "sentTo" : "CHAOS",
+    "gameTime" : 927721000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "lol",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1075074000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "u guys got caught lmao",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1406260000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "lol",
+    "sentTo" : "All",
+    "gameTime" : 1745886000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "gjgj",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1856865000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "gg bb",
+    "sentTo" : "All",
+    "gameTime" : 1998243000
+  } ],
+  "success" : true
+}

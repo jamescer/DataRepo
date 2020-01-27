@@ -1,0 +1,32 @@
+{
+  "platformId" : null,
+  "gameId" : 3273327370,
+  "gameCreationTime" : 1579747912849,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "ty\\",
+    "sentTo" : "All",
+    "gameTime" : 162026000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "its with the chroma tho dont be decieved",
+    "sentTo" : "All",
+    "gameTime" : 168340000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "primetime is trash",
+    "sentTo" : "All",
+    "gameTime" : 225220000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "yikes aatrox",
+    "sentTo" : "ORDER",
+    "gameTime" : 458150000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "LOL",
+    "sentTo" : "All",
+    "gameTime" : 528893000
+  } ],
+  "success" : true
+}

@@ -1,0 +1,22 @@
+{
+  "platformId" : null,
+  "gameId" : 3276678339,
+  "gameCreationTime" : 1580009957637,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "we had 1 afk",
+    "sentTo" : "All",
+    "gameTime" : 60960000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "cant fight :(",
+    "sentTo" : "All",
+    "gameTime" : 63107000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "thanks man almost silver",
+    "sentTo" : "All",
+    "gameTime" : 1458637000
+  } ],
+  "success" : true
+}

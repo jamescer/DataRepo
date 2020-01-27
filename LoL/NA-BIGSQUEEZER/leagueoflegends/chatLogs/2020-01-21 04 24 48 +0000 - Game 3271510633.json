@@ -1,0 +1,17 @@
+{
+  "platformId" : null,
+  "gameId" : 3271510633,
+  "gameCreationTime" : 1579580688201,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "if only u let me get a kill draven",
+    "sentTo" : "ORDER",
+    "gameTime" : 401617000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "yikes",
+    "sentTo" : "ORDER",
+    "gameTime" : 402478000
+  } ],
+  "success" : true
+}

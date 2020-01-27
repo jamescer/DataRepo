@@ -1,0 +1,77 @@
+{
+  "platformId" : null,
+  "gameId" : 3266439497,
+  "gameCreationTime" : 1579231336513,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "ayyy true that",
+    "sentTo" : "ORDER",
+    "gameTime" : 26218000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "gj xin great gank",
+    "sentTo" : "ORDER",
+    "gameTime" : 328444000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "wow",
+    "sentTo" : "ORDER",
+    "gameTime" : 1260981000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "they shouldve baorned",
+    "sentTo" : "ORDER",
+    "gameTime" : 1263491000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "gutys",
+    "sentTo" : "ORDER",
+    "gameTime" : 1429069000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "you are playing so well",
+    "sentTo" : "ORDER",
+    "gameTime" : 1432009000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "keep it up",
+    "sentTo" : "ORDER",
+    "gameTime" : 1434057000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "GOD",
+    "sentTo" : "ORDER",
+    "gameTime" : 1499061000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "wpwp",
+    "sentTo" : "ORDER",
+    "gameTime" : 1504194000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "got ga finally",
+    "sentTo" : "ORDER",
+    "gameTime" : 1539080000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "gj",
+    "sentTo" : "ORDER",
+    "gameTime" : 1701382000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "tf trolled",
+    "sentTo" : "ORDER",
+    "gameTime" : 1954848000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "bruh tf trolling",
+    "sentTo" : "ORDER",
+    "gameTime" : 1976277000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "lol",
+    "sentTo" : "ORDER",
+    "gameTime" : 1977069000
+  } ],
+  "success" : true
+}

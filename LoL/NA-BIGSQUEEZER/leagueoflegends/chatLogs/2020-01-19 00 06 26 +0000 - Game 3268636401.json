@@ -1,0 +1,47 @@
+{
+  "platformId" : null,
+  "gameId" : 3268636401,
+  "gameCreationTime" : 1579392386603,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "lmao",
+    "sentTo" : "All",
+    "gameTime" : 567963000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "LOOOOOOOOL",
+    "sentTo" : "All",
+    "gameTime" : 935394000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "?",
+    "sentTo" : "All",
+    "gameTime" : 1376858000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "?",
+    "sentTo" : "All",
+    "gameTime" : 1657641000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "yikes lux maybe stick to bots :/",
+    "sentTo" : "All",
+    "gameTime" : 1793122000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "?",
+    "sentTo" : "All",
+    "gameTime" : 2127909000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "?",
+    "sentTo" : "All",
+    "gameTime" : 2325487000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "gg lmao",
+    "sentTo" : "All",
+    "gameTime" : 2483901000
+  } ],
+  "success" : true
+}

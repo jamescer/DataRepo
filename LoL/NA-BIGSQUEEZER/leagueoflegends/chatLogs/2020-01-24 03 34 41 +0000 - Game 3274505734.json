@@ -1,0 +1,62 @@
+{
+  "platformId" : null,
+  "gameId" : 3274505734,
+  "gameCreationTime" : 1579836881791,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "nj lewona",
+    "sentTo" : "CHAOS",
+    "gameTime" : 390018000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "were all playing well guys :)",
+    "sentTo" : "CHAOS",
+    "gameTime" : 394809000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "cmon man",
+    "sentTo" : "CHAOS",
+    "gameTime" : 528135000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "u had it",
+    "sentTo" : "CHAOS",
+    "gameTime" : 530613000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "one E",
+    "sentTo" : "CHAOS",
+    "gameTime" : 545323000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "and he was dwead from trap combo",
+    "sentTo" : "CHAOS",
+    "gameTime" : 549188000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "wp",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1049315000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "ZAC",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1224512000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "COME",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1226032000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "iwas autoing",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1292806000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "minion died",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1296805000
+  } ],
+  "success" : true
+}

@@ -127,3 +127,24 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+# Must ignore sensitive information
+LoL/NA-BIGSQUEEZER/riotAccount/storeTransactions.json
+LoL/NA-BIGSQUEEZER/riotAccount/rpPurchases.json
+LoL/NA-BIGSQUEEZER/riotAccount/loginEvents.json
+LoL/NA-BIGSQUEEZER/legendsofruneterra/matchHistory.json
+LoL/NA-BIGSQUEEZER/riotAccount/accountData.json
+LoL/NA-BIGSQUEEZER/riotAccount/accountEvents.json
+LoL/NA-BIGSQUEEZER/leagueoflegends/groupedReports.json
+LoL/NA-BIGSQUEEZER/leagueoflegends/summoner.json
+LoL/NA-BIGSQUEEZER/support/tickets/20239393.json
+LoL/NA-BIGSQUEEZER/support/tickets/23245781.json
+LoL/NA-BIGSQUEEZER/support/tickets/23710444.json
+LoL/NA-BIGSQUEEZER/support/tickets/23710540.json
+LoL/NA-BIGSQUEEZER/support/tickets/24362789.json
+LoL/NA-BIGSQUEEZER/support/tickets/33577293.json
+LoL/NA-BIGSQUEEZER/support/tickets/34415019.json
+LoL/NA-BIGSQUEEZER/support/tickets/34730926.json
+LoL/NA-BIGSQUEEZER/support/tickets/35424152.json
+LoL/NA-BIGSQUEEZER/support/tickets/35450561.json
+LoL/NA-BIGSQUEEZER/support/tickets/37853240.json
+LoL/NA-BIGSQUEEZER/support/tickets/44448472.json

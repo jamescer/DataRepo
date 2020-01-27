@@ -1,0 +1,22 @@
+{
+  "platformId" : null,
+  "gameId" : 3253797065,
+  "gameCreationTime" : 1578119016647,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "nasus get some stacks",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1284313000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "GGGG",
+    "sentTo" : "All",
+    "gameTime" : 1587987000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "LOOL",
+    "sentTo" : "All",
+    "gameTime" : 1588846000
+  } ],
+  "success" : true
+}

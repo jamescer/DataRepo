@@ -1,0 +1,12 @@
+{
+  "platformId" : null,
+  "gameId" : 3260183279,
+  "gameCreationTime" : 1578718518247,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "gg",
+    "sentTo" : "All",
+    "gameTime" : 1023614000
+  } ],
+  "success" : true
+}

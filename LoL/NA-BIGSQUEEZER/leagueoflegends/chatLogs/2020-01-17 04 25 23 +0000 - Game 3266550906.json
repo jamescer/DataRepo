@@ -1,0 +1,52 @@
+{
+  "platformId" : null,
+  "gameId" : 3266550906,
+  "gameCreationTime" : 1579235123961,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "we got this",
+    "sentTo" : "CHAOS",
+    "gameTime" : 45006000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "20",
+    "sentTo" : "CHAOS",
+    "gameTime" : 81440000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "wp guys",
+    "sentTo" : "CHAOS",
+    "gameTime" : 583256000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "doing great",
+    "sentTo" : "CHAOS",
+    "gameTime" : 585303000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "nuun botside",
+    "sentTo" : "CHAOS",
+    "gameTime" : 640961000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "worth",
+    "sentTo" : "CHAOS",
+    "gameTime" : 911874000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "all good man",
+    "sentTo" : "CHAOS",
+    "gameTime" : 931858000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "LOOOL",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1262894000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "U FKR",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1265172000
+  } ],
+  "success" : true
+}

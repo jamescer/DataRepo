@@ -1,0 +1,47 @@
+{
+  "platformId" : null,
+  "gameId" : 3265195128,
+  "gameCreationTime" : 1579228226079,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "set",
+    "sentTo" : "ORDER",
+    "gameTime" : 4989000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "ts",
+    "sentTo" : "ORDER",
+    "gameTime" : 5320000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "ets",
+    "sentTo" : "ORDER",
+    "gameTime" : 5618000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "est",
+    "sentTo" : "ORDER",
+    "gameTime" : 5948000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "set",
+    "sentTo" : "ORDER",
+    "gameTime" : 6245000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "s",
+    "sentTo" : "ORDER",
+    "gameTime" : 7005000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "tetetsetsetsset",
+    "sentTo" : "ORDER",
+    "gameTime" : 9151000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "setsetsetsetest",
+    "sentTo" : "ORDER",
+    "gameTime" : 11530000
+  } ],
+  "success" : true
+}
