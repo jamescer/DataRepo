@@ -1,0 +1,102 @@
+{
+  "platformId" : null,
+  "gameId" : 3270144191,
+  "gameCreationTime" : 1579483798161,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "im friendly",
+    "sentTo" : "All",
+    "gameTime" : 99418000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "Ty",
+    "sentTo" : "All",
+    "gameTime" : 110318000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "wait",
+    "sentTo" : "All",
+    "gameTime" : 116197000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "what was that crab emote",
+    "sentTo" : "All",
+    "gameTime" : 119106000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "is that in the store",
+    "sentTo" : "All",
+    "gameTime" : 136120000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "",
+    "sentTo" : "ORDER",
+    "gameTime" : 148114000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "worth it?",
+    "sentTo" : "All",
+    "gameTime" : 149931000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : ">:(",
+    "sentTo" : "All",
+    "gameTime" : 186283000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "wu :(",
+    "sentTo" : "All",
+    "gameTime" : 406630000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "as u wish",
+    "sentTo" : "All",
+    "gameTime" : 421472000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "LOOOL",
+    "sentTo" : "All",
+    "gameTime" : 451200000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "i respect that",
+    "sentTo" : "All",
+    "gameTime" : 453941000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "LOL",
+    "sentTo" : "All",
+    "gameTime" : 678751000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "u knocked me up wukong",
+    "sentTo" : "All",
+    "gameTime" : 682550000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "pay some child support",
+    "sentTo" : "All",
+    "gameTime" : 686249000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "please",
+    "sentTo" : "All",
+    "gameTime" : 690708000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "rengar",
+    "sentTo" : "All",
+    "gameTime" : 740283000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "??",
+    "sentTo" : "All",
+    "gameTime" : 741605000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "where was ur health",
+    "sentTo" : "All",
+    "gameTime" : 744909000
+  } ],
+  "success" : true
+}

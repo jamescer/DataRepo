@@ -1,0 +1,82 @@
+{
+  "platformId" : null,
+  "gameId" : 3274562087,
+  "gameCreationTime" : 1579838800179,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "morg wtf",
+    "sentTo" : "ORDER",
+    "gameTime" : 1241320000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "fk mna",
+    "sentTo" : "ORDER",
+    "gameTime" : 1250601000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "EKOK",
+    "sentTo" : "ORDER",
+    "gameTime" : 1572471000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "BARON",
+    "sentTo" : "ORDER",
+    "gameTime" : 1573860000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "WTF",
+    "sentTo" : "ORDER",
+    "gameTime" : 1574851000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "omg",
+    "sentTo" : "ORDER",
+    "gameTime" : 1579408000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "inhib then baorn",
+    "sentTo" : "ORDER",
+    "gameTime" : 1712915000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "gj",
+    "sentTo" : "ORDER",
+    "gameTime" : 1733198000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "darius",
+    "sentTo" : "ORDER",
+    "gameTime" : 1755596000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "wtf",
+    "sentTo" : "ORDER",
+    "gameTime" : 1756190000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "dairus",
+    "sentTo" : "ORDER",
+    "gameTime" : 1793927000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "wtf",
+    "sentTo" : "ORDER",
+    "gameTime" : 1795018000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "no peal",
+    "sentTo" : "ORDER",
+    "gameTime" : 1885506000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "literally nothing",
+    "sentTo" : "ORDER",
+    "gameTime" : 1896408000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "alright well",
+    "sentTo" : "ORDER",
+    "gameTime" : 1927588000
+  } ],
+  "success" : true
+}

@@ -1,0 +1,97 @@
+{
+  "platformId" : null,
+  "gameId" : 3277616193,
+  "gameCreationTime" : 1580090522401,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "holy",
+    "sentTo" : "ORDER",
+    "gameTime" : 236784000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "how",
+    "sentTo" : "ORDER",
+    "gameTime" : 250726000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "olaf top",
+    "sentTo" : "ORDER",
+    "gameTime" : 697831000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "love it",
+    "sentTo" : "ORDER",
+    "gameTime" : 722610000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "gp pushed to turret all game",
+    "sentTo" : "ORDER",
+    "gameTime" : 730934000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "no ganks",
+    "sentTo" : "ORDER",
+    "gameTime" : 732852000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "lux",
+    "sentTo" : "ORDER",
+    "gameTime" : 810725000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "shield?",
+    "sentTo" : "ORDER",
+    "gameTime" : 812310000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "ff",
+    "sentTo" : "ORDER",
+    "gameTime" : 840359000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "lux getting 2x cs",
+    "sentTo" : "ORDER",
+    "gameTime" : 1073974000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "WHY PING MID AND NOT GO",
+    "sentTo" : "ORDER",
+    "gameTime" : 1373784000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "why would you ping on your way ekko and go top",
+    "sentTo" : "ORDER",
+    "gameTime" : 1383567000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "?????????????",
+    "sentTo" : "ORDER",
+    "gameTime" : 1385153000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "YOU PINGED",
+    "sentTo" : "ORDER",
+    "gameTime" : 1396983000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "lol you were at wolves",
+    "sentTo" : "ORDER",
+    "gameTime" : 1401575000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "U PLAYED SO GOOD ASHE",
+    "sentTo" : "ORDER",
+    "gameTime" : 1731440000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "im sorry",
+    "sentTo" : "ORDER",
+    "gameTime" : 1733918000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : ":(",
+    "sentTo" : "ORDER",
+    "gameTime" : 1735206000
+  } ],
+  "success" : true
+}

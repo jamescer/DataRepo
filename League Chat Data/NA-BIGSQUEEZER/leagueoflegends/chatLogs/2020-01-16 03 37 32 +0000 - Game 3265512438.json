@@ -1,0 +1,17 @@
+{
+  "platformId" : null,
+  "gameId" : 3265512438,
+  "gameCreationTime" : 1579145852738,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "tough matchup",
+    "sentTo" : "All",
+    "gameTime" : 643107000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "cc team",
+    "sentTo" : "All",
+    "gameTime" : 1773131000
+  } ],
+  "success" : true
+}

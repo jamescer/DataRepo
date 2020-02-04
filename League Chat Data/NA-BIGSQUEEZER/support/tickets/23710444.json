@@ -1,0 +1,27 @@
+{
+  "ticketId" : 23710444,
+  "status" : "deleted",
+  "subject" : "Unrecoverable Account",
+  "createDate" : 1476330515000,
+  "comments" : [ {
+    "author" : "BIG SQUEEZER",
+    "comment" : "This was my account I made while trying to make an account that i could test certain builds on without playing with higher ELO players. I made this account on September 9th and I played it a little bit. I have tried logging in recently and it said I was banned. Checked the match history on the account and it looks like it was accessed by someone else. I was really hoping there would be a way to get my account back? I am saying that this was not my doings and this account was seized by someone else.\r\n\r\n<---> Ticket Summary <--->\r\nAccount signup email: imzessed@gmail.com\r\nDo you have access to your signup email?: yes\r\nUsername: zestyhummus\r\nSummoner Name: run it m1d\r\nRegion: north_america\r\nDo you remember the account signup info?: yes\r\nAccount creation date: Septermber 9th\r\nDate of Birth on the account (if you added it): 05/12/1997\r\nLocation where account was registered (city and country): Merrick, New York\r\nPlease explain how you first gained access to this account: I made this account with my bare hands and keyboard.\r\nOther people (friends/family members) who have ever had access to the account: No one has ever had access.\r\nDo you remember the store information?: no\r\nWhat was your first ever RP purchase? (Include date and item): \r\nWhat did you use your refund tokens on?: \r\nDo you remember the first 5 champions you have purchased?: \r\nFirst 5 champions you ever purchased:: \r\nFirst 3150 IP champion purchased: \r\nFirst 4800 IP champion purchased: \r\nFirst 6300 IP champion purchased: \r\nDid you receive or give gifts on this account?: \r\nGifts received: \r\nGifts given: \r\nHelp Center Stats:",
+    "commentDate" : 1476330515000
+  }, {
+    "author" : "Agent",
+    "comment" : "Summoner,\n\nWe have a Player Behavior team in place dedicated to working with these requests, so I need to transfer your ticket. A Player Behavior Specialist will be contacting you as soon as they can.\n\nPlease keep in mind that we respond to tickets in the order we receive them, so ‘bumping’ your ticket by sending us additional messages will send it to the back of our queue. This might inadvertently delay our response :(\n\nThank you for your patience!\n\nIsellyn\n\nRiot Games Billing and Account Support",
+    "commentDate" : 1476393522000
+  }, {
+    "author" : "BIG SQUEEZER",
+    "comment" : "Thank you!",
+    "commentDate" : 1476401901000
+  }, {
+    "author" : "Agent",
+    "comment" : "Hello Zessed,\n\nMy name is Hana from the Player Behavior team and I'm here to provide you with some context regarding your exploit ban.\n\nI have reviewed your account to double check all the facts and we do have a lot of solid data against your account. Unfortunately, I cannot disclose any details regarding our investigation as we want to keep the methods that we use a secret from any malicious intent of gaming the system. There are no signs of unauthorized access to the account that correlate with the use of exploits. However, if you share your account with anyone else, that would be a violation of our Terms of Use and could attribute to the ban also.\n\nI know it's disappointing to hear but we take this kind of violation very seriously and will not be able to modify this ban. Feel free to contact me if you have any concerns that I can answer.\n\nHana\nRiot Player Support\nPlayer Behavior Specialist\nSupport Main",
+    "commentDate" : 1476565510000
+  }, {
+    "author" : "BIG SQUEEZER",
+    "comment" : "Thank you very much, Hana! It's ok I can understand your policy about that stuff.  Thank you for your effeciency as well! Have a good day!",
+    "commentDate" : 1476575987000
+  } ]
+}

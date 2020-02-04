@@ -1,0 +1,42 @@
+{
+  "platformId" : null,
+  "gameId" : 3258777681,
+  "gameCreationTime" : 1578613012663,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "nice",
+    "sentTo" : "CHAOS",
+    "gameTime" : 355958000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "ima nseak drag",
+    "sentTo" : "CHAOS",
+    "gameTime" : 580664000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "need vision",
+    "sentTo" : "CHAOS",
+    "gameTime" : 920528000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "bruh",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1119000000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "ashe e",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1244460000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "ff",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1347396000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "PREP DRAG",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1516038000
+  } ],
+  "success" : true
+}

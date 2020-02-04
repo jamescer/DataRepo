@@ -1,0 +1,37 @@
+{
+  "platformId" : null,
+  "gameId" : 3271553356,
+  "gameCreationTime" : 1579581933920,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "LOOOLOLOL",
+    "sentTo" : "All",
+    "gameTime" : 898040000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "go for mf go for mf",
+    "sentTo" : "All",
+    "gameTime" : 909933000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "jajjajajaj",
+    "sentTo" : "All",
+    "gameTime" : 912905000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "what ranked lol?",
+    "sentTo" : "All",
+    "gameTime" : 953448000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "u mean co op vs ai? i win",
+    "sentTo" : "All",
+    "gameTime" : 958338000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "Gg lol",
+    "sentTo" : "All",
+    "gameTime" : 1163278000
+  } ],
+  "success" : true
+}

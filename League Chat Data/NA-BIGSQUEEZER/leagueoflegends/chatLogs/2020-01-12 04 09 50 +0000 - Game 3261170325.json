@@ -1,0 +1,67 @@
+{
+  "platformId" : null,
+  "gameId" : 3261170325,
+  "gameCreationTime" : 1578802190299,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "bro u had like 400 health",
+    "sentTo" : "All",
+    "gameTime" : 510105000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "im having fun dog",
+    "sentTo" : "All",
+    "gameTime" : 959278000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "comin from 1/6 thresh",
+    "sentTo" : "All",
+    "gameTime" : 993676000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "haha yikes",
+    "sentTo" : "All",
+    "gameTime" : 999060000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "crazy game haha",
+    "sentTo" : "All",
+    "gameTime" : 1117378000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "haha ur taking a normal so srs its cringe",
+    "sentTo" : "All",
+    "gameTime" : 1333862000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "uh",
+    "sentTo" : "ORDER",
+    "gameTime" : 1532693000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "u shouldve waited rengar",
+    "sentTo" : "ORDER",
+    "gameTime" : 1537417000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "lol",
+    "sentTo" : "ORDER",
+    "gameTime" : 1538310000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "myb",
+    "sentTo" : "ORDER",
+    "gameTime" : 1587576000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "lol imagine losing to \"trash\"",
+    "sentTo" : "All",
+    "gameTime" : 1833723000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "yikes",
+    "sentTo" : "ORDER",
+    "gameTime" : 2341469000
+  } ],
+  "success" : true
+}

@@ -1,0 +1,57 @@
+{
+  "platformId" : null,
+  "gameId" : 3274430934,
+  "gameCreationTime" : 1579832286942,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "gj",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1096563000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "i have tp for drag",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1113871000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "just ward",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1114961000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "wp",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1522880000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "lol",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1633707000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "u guys geting picked",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1708467000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "you got picked lol",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1717221000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "?",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1725219000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "u got caught",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1740807000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "lol",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1741666000
+  } ],
+  "success" : true
+}

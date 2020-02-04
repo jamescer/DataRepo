@@ -1,0 +1,37 @@
+{
+  "platformId" : null,
+  "gameId" : 3266516524,
+  "gameCreationTime" : 1579233839145,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "hey guys",
+    "sentTo" : "ORDER",
+    "gameTime" : 21254000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "no sums bot",
+    "sentTo" : "ORDER",
+    "gameTime" : 228254000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "melee janna?",
+    "sentTo" : "ORDER",
+    "gameTime" : 386985000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "kayn man",
+    "sentTo" : "ORDER",
+    "gameTime" : 653317000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "janna kinda crazy",
+    "sentTo" : "ORDER",
+    "gameTime" : 672613000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "ur getting reported janna",
+    "sentTo" : "ORDER",
+    "gameTime" : 921098000
+  } ],
+  "success" : true
+}

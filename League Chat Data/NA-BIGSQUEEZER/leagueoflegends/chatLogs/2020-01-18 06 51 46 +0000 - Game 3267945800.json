@@ -1,0 +1,22 @@
+{
+  "platformId" : null,
+  "gameId" : 3267945800,
+  "gameCreationTime" : 1579330306777,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "malz is always top",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1158736000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "holy moly",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1160323000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "yikes",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1462689000
+  } ],
+  "success" : true
+}

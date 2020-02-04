@@ -1,0 +1,42 @@
+{
+  "platformId" : null,
+  "gameId" : 3254584277,
+  "gameCreationTime" : 1578200993606,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "nice one rengar",
+    "sentTo" : "All",
+    "gameTime" : 212920000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "ruining the normals game",
+    "sentTo" : "All",
+    "gameTime" : 215961000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "big bot fiesta",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1041325000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "uhhh",
+    "sentTo" : "All",
+    "gameTime" : 1568042000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "its normals",
+    "sentTo" : "All",
+    "gameTime" : 1709124000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "lmao its a normal",
+    "sentTo" : "All",
+    "gameTime" : 1711965000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "GG",
+    "sentTo" : "All",
+    "gameTime" : 1960872000
+  } ],
+  "success" : true
+}

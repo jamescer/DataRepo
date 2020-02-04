@@ -1,0 +1,67 @@
+{
+  "platformId" : null,
+  "gameId" : 3274650719,
+  "gameCreationTime" : 1579841709349,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "ty",
+    "sentTo" : "CHAOS",
+    "gameTime" : 98760000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "nj bot",
+    "sentTo" : "CHAOS",
+    "gameTime" : 166513000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "kha took my red",
+    "sentTo" : "CHAOS",
+    "gameTime" : 171667000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "4",
+    "sentTo" : "CHAOS",
+    "gameTime" : 220058000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "worht",
+    "sentTo" : "CHAOS",
+    "gameTime" : 374103000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "nice",
+    "sentTo" : "CHAOS",
+    "gameTime" : 391652000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "ugh",
+    "sentTo" : "CHAOS",
+    "gameTime" : 484938000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "OH MY",
+    "sentTo" : "CHAOS",
+    "gameTime" : 887423000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "ff",
+    "sentTo" : "CHAOS",
+    "gameTime" : 893304000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "asola int it eihter kinda :/",
+    "sentTo" : "CHAOS",
+    "gameTime" : 911890000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "wow",
+    "sentTo" : "CHAOS",
+    "gameTime" : 960363000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "stick to bots cait",
+    "sentTo" : "CHAOS",
+    "gameTime" : 964667000
+  } ],
+  "success" : true
+}

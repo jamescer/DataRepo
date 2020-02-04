@@ -1,0 +1,42 @@
+{
+  "platformId" : null,
+  "gameId" : 3259940195,
+  "gameCreationTime" : 1578704767629,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "myb",
+    "sentTo" : "ORDER",
+    "gameTime" : 493352000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "nice",
+    "sentTo" : "ORDER",
+    "gameTime" : 501641000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "wtf",
+    "sentTo" : "ORDER",
+    "gameTime" : 504879000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "ur great",
+    "sentTo" : "ORDER",
+    "gameTime" : 506101000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "sorry man",
+    "sentTo" : "ORDER",
+    "gameTime" : 754140000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "fuck shes so big",
+    "sentTo" : "ORDER",
+    "gameTime" : 1044115000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "nice keep it up veigar",
+    "sentTo" : "ORDER",
+    "gameTime" : 1069283000
+  } ],
+  "success" : true
+}
