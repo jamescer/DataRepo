@@ -1,0 +1,72 @@
+{
+  "platformId" : null,
+  "gameId" : 3277524944,
+  "gameCreationTime" : 1580086731003,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "damn fuck this lane",
+    "sentTo" : "ORDER",
+    "gameTime" : 41304000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "lol",
+    "sentTo" : "ORDER",
+    "gameTime" : 41933000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "no sums bot",
+    "sentTo" : "ORDER",
+    "gameTime" : 236236000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "myb",
+    "sentTo" : "ORDER",
+    "gameTime" : 386928000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "should turned on eve",
+    "sentTo" : "ORDER",
+    "gameTime" : 399285000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "4 bot",
+    "sentTo" : "ORDER",
+    "gameTime" : 666419000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "bard ult cait",
+    "sentTo" : "ORDER",
+    "gameTime" : 861526000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "so we can 2v1 leona",
+    "sentTo" : "ORDER",
+    "gameTime" : 866810000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "yes",
+    "sentTo" : "ORDER",
+    "gameTime" : 1001190000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "rumble",
+    "sentTo" : "ORDER",
+    "gameTime" : 1132031000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "dont tunnel leona",
+    "sentTo" : "ORDER",
+    "gameTime" : 1134012000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "yikes",
+    "sentTo" : "ORDER",
+    "gameTime" : 1253519000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "bard u never ult dog",
+    "sentTo" : "ORDER",
+    "gameTime" : 1256129000
+  } ],
+  "success" : true
+}

@@ -1,0 +1,22 @@
+{
+  "platformId" : null,
+  "gameId" : 3276640628,
+  "gameCreationTime" : 1580007373407,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "are you ok ryze? do you wanna talk ma",
+    "sentTo" : "All",
+    "gameTime" : 1070116000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "man",
+    "sentTo" : "All",
+    "gameTime" : 1073489000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "gg",
+    "sentTo" : "All",
+    "gameTime" : 1128068000
+  } ],
+  "success" : true
+}

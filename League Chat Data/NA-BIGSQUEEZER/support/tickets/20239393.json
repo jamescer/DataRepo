@@ -1,0 +1,19 @@
+{
+  "ticketId" : 20239393,
+  "status" : "closed",
+  "subject" : "Unrecoverable PBE Acccount",
+  "createDate" : 1454040610000,
+  "comments" : [ {
+    "author" : "BIG SQUEEZER",
+    "comment" : "I can very easily access my main account on NA but i cant access my PBE account. I wanted to help bug test the new Jihn Champ. http://puu.sh/mNHSr/88538e5aa4.jpg This is proof I have access to my main account\r\n\r\n<---> Ticket Summary <--->\r\n\r\nHas your account been suspended for a chargeback? || chargeback_no\r\nUsername || Zessed\r\nSummoner Name || Zesty Salsa\r\nRegion || PBE\r\nSignup region || PBE\r\nDate of birth (month/day/year) || 05/12/1997\r\nOriginal email address used to register the account || imzs7y@hotmail.com\r\nPlease check this box if you still have access to this email address || Yes\r\nLocation where account was registered (city and country) || Merrick New York United States of America\r\nYour current IP address || 137.140.128.204\r\nThe last time that you had access to the account (month/day/year) || 1-2 years ago?\r\nFirst purchase made with RP || None on PBE, Lots on Main Account\r\nDo you remember the first 5 champions you have purchased? || YES! \r\nChampion 1 || Akali\r\nChampion 2 || Annie\r\nChampion 3 || Ryze\r\nChampion 4 || Jax\r\nChampion 5 || Master Yi\r\nName of any refunded champions or skins || Refunded Talon the Champion\r\nHave you ever sent any gifts? If so, please list the earliest gifted content you remember sending and the summoner name of receiver || No Gifts on PBE account\r\nPlease explain how you first gained access to this account || Signed up through PBE\r\nOther people (friends/family members) who have ever had access to the account || None\r\n\r\n|- I am willing to fill out additional information -|\r\nHas your email account ever been compromised? If so, which email and when (month and year) || Nope\r\nHow did you lose access to your account? || I cant input my username or password",
+    "commentDate" : 1454040610000
+  }, {
+    "author" : "Agent",
+    "comment" : "Summoner,\n\nThank you for providing me with this information. We have a Support Team in place dedicated to working with issues like this one, so I need to transfer your ticket to someone with the tools to resolve your issue.\n\nThank you so much for your patience!\n\nRayfizz\nRiot Player Support",
+    "commentDate" : 1454172739000
+  }, {
+    "author" : "Agent",
+    "comment" : "Hey Summoner,\n\nIt’s me Hidden Ki from the Account Team! I want to thank you for your patience during our investigation of the PBE account in question. With that said, I’m happy to inform you that I’ve just sent out a password reset for your PBE account to your email imzessed@gmail.com. That email contains a temporary password for you to use. \n\nHowever, at the moment, the link to complete the password reset will not send you to the correct location.  Instead, visit this site to reset your password:\n\nhttp://boards.pbe.leagueoflegends.com/\n\nSince this site is still under development, I recommend using this guide to complete your password reset:\n\nhttps://support.riotgames.com/hc/en-us/articles/201751904\n\nPlease note that, like the PBE client, our PBE website is also in beta stages. This means that specific tools may disappear and the page will sometimes go blank when unscheduled maintenance is needed. If you are seeing a blank page I suggest holding off and attempting the reset at a later time. If this issue seems to not be going away I recommend changing your internet browser (Chrome, Firefox, Internet Explorer, etc.) to make sure the blank page is not due to a local browser setting.\n\nFor some tips on keeping your account secure, check out our Knowledge Base:\n\nhttps://support.riotgames.com/hc/en-us/articles/201751664\n\nIf you have any other questions or concerns, please feel free to contact us again.\n\n\nHidden Ki\nBilling and Account Support",
+    "commentDate" : 1454196216000
+  } ]
+}

@@ -1,0 +1,19 @@
+{
+  "reportsReceived" : {
+    "HATE_SPEECH" : 5,
+    "LEAVING_AFK" : 2,
+    "VERBAL_ABUSE" : 11,
+    "INAPPROPRIATE_NAME" : 1,
+    "NEGATIVE_ATTITUDE" : 9,
+    "ASSISTING_ENEMY_TEAM" : 5,
+    "THIRD_PARTY_TOOLS" : 1
+  },
+  "reportsMade" : {
+    "LEAVING_AFK" : 1,
+    "HATE_SPEECH" : 1,
+    "VERBAL_ABUSE" : 2,
+    "INAPPROPRIATE_NAME" : 1,
+    "NEGATIVE_ATTITUDE" : 7,
+    "ASSISTING_ENEMY_TEAM" : 5
+  }
+}

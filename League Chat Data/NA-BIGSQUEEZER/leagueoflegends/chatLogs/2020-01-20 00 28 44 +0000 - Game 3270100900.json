@@ -1,0 +1,37 @@
+{
+  "platformId" : null,
+  "gameId" : 3270100900,
+  "gameCreationTime" : 1579480124143,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "wai",
+    "sentTo" : "ORDER",
+    "gameTime" : 36344000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "wait",
+    "sentTo" : "All",
+    "gameTime" : 37368000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "give us a sec",
+    "sentTo" : "All",
+    "gameTime" : 39350000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "zyra holy moly",
+    "sentTo" : "All",
+    "gameTime" : 953388000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "do ue ver just not push lol",
+    "sentTo" : "All",
+    "gameTime" : 978451000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "macro",
+    "sentTo" : "All",
+    "gameTime" : 1075842000
+  } ],
+  "success" : true
+}

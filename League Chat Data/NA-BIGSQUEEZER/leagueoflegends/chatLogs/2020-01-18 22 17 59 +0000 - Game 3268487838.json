@@ -1,0 +1,27 @@
+{
+  "platformId" : null,
+  "gameId" : 3268487838,
+  "gameCreationTime" : 1579385879526,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "lux",
+    "sentTo" : "CHAOS",
+    "gameTime" : 881449000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "turn ur monitor on",
+    "sentTo" : "CHAOS",
+    "gameTime" : 883827000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "lmo",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1163881000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "ur so funny lux",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1166688000
+  } ],
+  "success" : true
+}

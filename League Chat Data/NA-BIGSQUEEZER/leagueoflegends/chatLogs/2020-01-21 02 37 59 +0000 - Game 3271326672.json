@@ -1,0 +1,27 @@
+{
+  "platformId" : null,
+  "gameId" : 3271326672,
+  "gameCreationTime" : 1579574279949,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "vi",
+    "sentTo" : "All",
+    "gameTime" : 591779000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "please",
+    "sentTo" : "All",
+    "gameTime" : 592672000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "lmao",
+    "sentTo" : "All",
+    "gameTime" : 812043000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "guess ill play next game",
+    "sentTo" : "All",
+    "gameTime" : 825691000
+  } ],
+  "success" : true
+}

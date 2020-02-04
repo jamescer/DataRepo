@@ -1,0 +1,25 @@
+[ {
+  "id" : 464504528,
+  "eventDate" : "2019-12-31 02:44:44",
+  "description" : "mfa-code Email delivered to imzessed@gmail.com",
+  "userName" : null,
+  "action" : "EMAIL"
+}, {
+  "id" : 462674605,
+  "eventDate" : "2019-12-27 16:50:28",
+  "description" : "mfa-code Email delivered to imzessed@gmail.com",
+  "userName" : null,
+  "action" : "EMAIL"
+}, {
+  "id" : 258986319,
+  "eventDate" : "2019-11-27 01:28:01",
+  "description" : "account-disambiguated Email delivered to imzessed@gmail.com",
+  "userName" : null,
+  "action" : "EMAIL"
+}, {
+  "id" : 258979275,
+  "eventDate" : "2019-11-27 01:26:00",
+  "description" : "Username changed",
+  "userName" : null,
+  "action" : "USER_FIELD_CHANGED"
+} ]

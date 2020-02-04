@@ -1,0 +1,47 @@
+{
+  "platformId" : null,
+  "gameId" : 3267936025,
+  "gameCreationTime" : 1579327492285,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "can u swipe with the arrow keys?",
+    "sentTo" : "ORDER",
+    "gameTime" : 56009000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "nice",
+    "sentTo" : "ORDER",
+    "gameTime" : 63076000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "invite me to this discord after this hah",
+    "sentTo" : "ORDER",
+    "gameTime" : 70642000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "chill lol",
+    "sentTo" : "ORDER",
+    "gameTime" : 541779000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "lmfao",
+    "sentTo" : "ORDER",
+    "gameTime" : 767687000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "sorry guys",
+    "sentTo" : "ORDER",
+    "gameTime" : 1142680000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "i dont want that discord invite anymore",
+    "sentTo" : "ORDER",
+    "gameTime" : 1147141000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "yikers",
+    "sentTo" : "ORDER",
+    "gameTime" : 1163811000
+  } ],
+  "success" : true
+}

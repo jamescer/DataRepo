@@ -1,0 +1,19 @@
+{
+  "ticketId" : 44448472,
+  "status" : "open",
+  "subject" : "Data Request",
+  "createDate" : 1577460852000,
+  "comments" : [ {
+    "author" : "Agent",
+    "comment" : "Greetings, human! I am Blitzcrank Bot, and I have received your request for account data. For added security, we will preserve this request for 30 days. Once this time is up, I will reply to this email with an attachment that includes all of your data.\n\nResponding to this ticket or pressing the button below will send it to a human, but it may also delay the request. If you have a question or concern, I recommend submitting a new ticket. The request will also be canceled if you change your email or password during this time. If you would like to make another request, you must wait another 30 days.\n\n[![Request a Human](https://cdn.playersupport.riotgames.com/images/blitzcrank/request-a-human-en.png)](https://support-leagueoflegends.riotgames.com/hc/requests/44448472#not-even-close-bb)",
+    "commentDate" : 1577460857000
+  }, {
+    "author" : "Agent",
+    "comment" : "Hello!\n\nLooks like Blitz broke a little bit v_v Don't worry, I can get you that information but I'll need to ask some verification questions first.\n\nI know this is a lot, but please do your best to provide the following:\n\nBasic info:\n- Login name:\n- In game name:\n- Region you play on (NA, OCE, EUW, etc.):\n- All possible emails you used to create the account (take a couple of guesses!):\n- Do you still have access to these emails?\n- Your birthday:\n- Creation date of the account and/or newest champ/skin when you started playing?\n- Location where the account was created? (City, Country):\n- Name any refunded champions or skins:\n- If you’ve sent/received gifts, what gifts and/or to/from whom?\n- Has anyone else ever been on the account? (including friends/family):\n- Who made this account?\n\nIf you’ve bought RP:\n- PayPal email address?\n- First 6 and last 4 digits of any credit cards used:\n- RP card PIN numbers?\n- Any transaction IDs for RP purchases?\n\nNote that you may not see your own responses on this ticket but don't worry, I can still read them.\n\nThank you!\n\nCrunchyBonBon\nRiot Games Player Support",
+    "commentDate" : 1579461889000
+  }, {
+    "author" : "BIG SQUEEZER",
+    "comment" : "Login Name: BIGSQUEEZER\r\nIn Game Name: BIG SQUEEZER\r\nRegion: NA\r\nemails: imzessed@gmail.com. imzs7y@hotmail.com (possibly)\r\naccess to emails: yes\r\nbirthday: 5/12/1997\r\ncreation of account: thresh release? start of season 3. Bought jax an nasus and played a bunch of twisted treeline during my early league days. \r\nAccount created at: Merrick NY 11566 USA\r\nrefunds: I think I bought and refunded talon a really long time ago.\r\nsent gifts: ToXiiK, Slore, Shadowstar325, Poopyfinger\r\nAccount usage: I've only ever used this account.\r\nAccount Creator: James Cerniglia\r\n\r\nBought RP info:\r\nno paypal, only credit cards: card ends with 0131. I used to redeem a bunch of the physical cards back in the day but I dont have them anymore. Currently at work so I cant provide transaction IDs but I can if this information was not significant. \r\n\r\nThank you for your help CrunchyBonBon, just wanted my account data so I could work a data set and do some fun python analytics on. Just out of curiosity, how far back does this data go? Is it possible to have all the data since account creation?",
+    "commentDate" : 1580138088000
+  } ]
+}

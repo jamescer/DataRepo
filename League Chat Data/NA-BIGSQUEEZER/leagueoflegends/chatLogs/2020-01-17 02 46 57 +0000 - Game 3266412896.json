@@ -1,0 +1,52 @@
+{
+  "platformId" : null,
+  "gameId" : 3266412896,
+  "gameCreationTime" : 1579229217633,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "play for late and we win",
+    "sentTo" : "CHAOS",
+    "gameTime" : 11518000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "uh oh",
+    "sentTo" : "CHAOS",
+    "gameTime" : 88160000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "yikes",
+    "sentTo" : "CHAOS",
+    "gameTime" : 885022000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "ASHE FULL MAP STUN R U SRS",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1196908000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "ashe ulted",
+    "sentTo" : "All",
+    "gameTime" : 1218643000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "malz no r",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1321553000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "\\",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1662638000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "jg difference",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1756823000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "all drags vs no drags",
+    "sentTo" : "CHAOS",
+    "gameTime" : 1763200000
+  } ],
+  "success" : true
+}

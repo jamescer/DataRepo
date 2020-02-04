@@ -1,0 +1,102 @@
+{
+  "platformId" : null,
+  "gameId" : 3268557375,
+  "gameCreationTime" : 1579389199408,
+  "text" : [ {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "uh idk",
+    "sentTo" : "ORDER",
+    "gameTime" : 80348000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "lol i dont play this game",
+    "sentTo" : "ORDER",
+    "gameTime" : 83587000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "oh ok lol",
+    "sentTo" : "ORDER",
+    "gameTime" : 238628000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "leona",
+    "sentTo" : "ORDER",
+    "gameTime" : 651124000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "can u save 1 yellow trinket for when we fight",
+    "sentTo" : "ORDER",
+    "gameTime" : 669765000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "i cant auto half the time bc i cant see thme",
+    "sentTo" : "ORDER",
+    "gameTime" : 675652000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "leona",
+    "sentTo" : "ORDER",
+    "gameTime" : 832391000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "wtf was that at the turret before",
+    "sentTo" : "ORDER",
+    "gameTime" : 839591000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "u just ate 6 autos and forced a recall?",
+    "sentTo" : "ORDER",
+    "gameTime" : 847784000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "leona go somewhere else where u know how to play against a champion",
+    "sentTo" : "ORDER",
+    "gameTime" : 944745000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "go against cho",
+    "sentTo" : "ORDER",
+    "gameTime" : 950265000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "leona",
+    "sentTo" : "ORDER",
+    "gameTime" : 1039873000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "stop",
+    "sentTo" : "ORDER",
+    "gameTime" : 1041161000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "go fight someone",
+    "sentTo" : "ORDER",
+    "gameTime" : 1044761000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "30 seconds at wraiths is enough",
+    "sentTo" : "ORDER",
+    "gameTime" : 1052092000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "idc",
+    "sentTo" : "ORDER",
+    "gameTime" : 1061944000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "ur one job is to go in and stun so i do dmg",
+    "sentTo" : "ORDER",
+    "gameTime" : 1071620000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "and u never did it bot",
+    "sentTo" : "ORDER",
+    "gameTime" : 1074494000
+  }, {
+    "summonerName" : "BIG SQUEEZER",
+    "chat" : "gg",
+    "sentTo" : "All",
+    "gameTime" : 1947256000
+  } ],
+  "success" : true
+}
