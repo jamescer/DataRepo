@@ -13,6 +13,7 @@ import time
 import datetime
 import matplotlib
 
+
 class LeagueProfile():
     RiotApiKey = "RGAPI-5cb32e57-c3e9-4712-be4f-eb09c9f71a49"
     ProfileData = {}
@@ -78,13 +79,15 @@ class LeagueProfile():
                            str(datetime_object), 'datev2': date, 'epoch': i['lastPlayTime']})
         newarr = sorted(newarr, key=lambda i: i['epoch'])
         x = []
-        xlabels=[]
+        xlabels = []
         y = []
-        for i in newarr:
-            # print(i[1]['datetime'])
+        for i in newarr[:10]:
+            
             x.append(i['lastDate'])
             xlabels.append(str(i['lastDate'])[0:10])
             y.append(i['name'])
+            
+            
         # make up some data
         # x = [datetime.datetime.now() + datetime.timedelta(hours=i) for i in range(12)]
         # y = [i+random.gauss(0, 1) for i, _ in enumerate(x)]
@@ -92,11 +95,11 @@ class LeagueProfile():
         # plot
 
         plt.plot(x, y)
-        
-        plt.xticks(x,xlabels,rotation=75)
+
+        plt.xticks(x, xlabels, rotation=75)
         # beautify the x-label
         fig = matplotlib.pyplot.gcf()
-        fig.set_size_inches(40, 35)
+        fig.set_size_inches(15, 8)
         plt.savefig('./'+lp.SummonerName+'-oldest.png')
 
         # with open('./'+lp.SummonerName+'-oldest.json', 'w') as outfile:
@@ -126,7 +129,7 @@ class LeagueProfile():
 
 
 if __name__ == "__main__":
-    lp = LeagueProfile('kinky kev')
+    lp = LeagueProfile('TToXiiK')
     x = lp.getOldestPlayedChampions()
 
     # lp.getRecentGamesPlayedWordCloud()
