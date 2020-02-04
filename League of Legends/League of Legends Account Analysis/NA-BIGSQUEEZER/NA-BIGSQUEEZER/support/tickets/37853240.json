@@ -1,0 +1,15 @@
+{
+  "ticketId" : 37853240,
+  "status" : "closed",
+  "subject" : "Data",
+  "createDate" : 1543205635000,
+  "comments" : [ {
+    "author" : "BIG SQUEEZER",
+    "comment" : "I just want to see my account data.",
+    "commentDate" : 1543205635000
+  }, {
+    "author" : "Agent",
+    "comment" : "Greetings, human! I am Blitzcrank Bot, and I have received your request for account data. For added security, we will preserve this request for 30 days. Once this time is up, I will reply to this email with an attachment that includes all of your data.\r\n\r\nResponding to this ticket or pressing the button below will send it to a human, but it may also delay the request. If you have a question or concern, I recommend submitting a new ticket. The request will also be canceled if you change your email or password during this time. If you would like to make another request, you must wait another 30 days.\r\n\r\n[![Request a Human](https://s3-us-west-2.amazonaws.com/support.riotgames.com/images/blitzcrank/request-a-human-en.png)](https://support.riotgames.com/hc/requests/37853240#not-even-close-bb)",
+    "commentDate" : 1543205651000
+  } ]
+}

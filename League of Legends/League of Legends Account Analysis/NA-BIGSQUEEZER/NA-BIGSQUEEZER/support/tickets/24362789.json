@@ -1,0 +1,15 @@
+{
+  "ticketId" : 24362789,
+  "status" : "closed",
+  "subject" : "In game name change",
+  "createDate" : 1479741755000,
+  "comments" : [ {
+    "author" : "BIG SQUEEZER",
+    "comment" : "Hey Riot Support! Hope your guys' day is going well. I'm contacting you guys because I recently changed my name but I was wondering if you could change the first 'i' in Idioms to lower case. It's okay if this is too much of a request! Have a good day!",
+    "commentDate" : 1479741755000
+  }, {
+    "author" : "Agent",
+    "comment" : "Hey Summoner,\n\nYour Summoner name has now been adjusted as you requested!  Note that this was a one-time change, so if you’d like to change your name in the future, you will have to purchase a Summoner name change in the store under the ‘Account’ tab.\n\nLet me know if you need anything else! Best of luck to you on the Rift!\n\nThe 0rphan\nRiot Games Player Support\nMorgana Support",
+    "commentDate" : 1479790592000
+  } ]
+}
