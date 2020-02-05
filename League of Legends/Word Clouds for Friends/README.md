@@ -4,13 +4,13 @@
 ## Technologies Used
 I used [Riot Games API](https://developer.riotgames.com/) to pull and analyze data in a json format.
 
-## LeagueProfile.py 
+## LeagueAPI.py 
 
-### Using the LeagueProfile class:
-To initialize a LeagueProfile class, simply put in the riot api key you have and the summoner name you'd like to lookup\
+### Using the LeagueAPI class:
+To initialize a LeagueAPI class, simply put in the riot api key you have and the summoner name you'd like to lookup\
 Example:
 ```python
-lp = LeagueProfile('this-is-your-riot-api-key-eb09','TToXiiK')
+leeg = LeagueAPI('riot-api-key-here-eb09','BIG SQUEEZER')
 ```
 
 ### Methods inside the League profile class
@@ -19,8 +19,8 @@ There are a few methods inside the class used to obtain summoner data
 Get champs you
 Example:
 ```python
-lp = LeagueProfile('TToXiiK')
-x = lp.getOldestPlayedChampions()
+leeg = LeagueAPI('BIG SQUEEZER')
+x = leeg.getOldestPlayedChampions()
 print(x[0])
 ```
 Output:

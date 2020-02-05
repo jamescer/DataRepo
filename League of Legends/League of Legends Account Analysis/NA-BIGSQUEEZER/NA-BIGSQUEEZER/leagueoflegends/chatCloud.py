@@ -42,6 +42,6 @@ wc = WordCloud(max_words=10000, width=1920, height=1080,
                random_state=1).generate(all_words)
 plt.imshow(wc.recolor(color_func=grey_color_func, random_state=1),
            interpolation="bilinear")
-wc.to_file("a_new_hope.png")
+wc.to_file("ChatlodWC.png")
 plt.axis("off")
 plt.figure()
