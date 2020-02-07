@@ -325,6 +325,26 @@ class LeagueAPI():
         self.SummonerNameUrl = urllib.parse.quote(name)
         self.getProfleByName()
 
+    def getMaps(self):
+        with urllib.request.urlopen('http://static.developer.riotgames.com/docs/lol/maps.json') as url:
+            mapData = json.loads(url.read().decode())
+            return mapData
+
+    def getGameTypes(self):
+        with urllib.request.urlopen('http://static.developer.riotgames.com/docs/lol/gameTypes.json') as url:
+            gameTypeData = json.loads(url.read().decode())
+            return gameTypeData
+
+    def getSeasons(self):
+        with urllib.request.urlopen('http://static.developer.riotgames.com/docs/lol/seasons.json') as url:
+            seasonData = json.loads(url.read().decode())
+            return seasonData
+
+    def getQueues(self):
+        with urllib.request.urlopen('http://static.developer.riotgames.com/docs/lol/queues.json') as url:
+            queueData = json.loads(url.read().decode())
+            return queueData
+
     def getProfleByName(self):
         with urllib.request.urlopen("https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/" +
                                     self.SummonerNameUrl + "?api_key=" + self.RiotApiKey) as url:
