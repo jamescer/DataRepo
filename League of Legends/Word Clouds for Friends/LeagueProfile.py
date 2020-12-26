@@ -69,7 +69,6 @@ class LeagueProfile():
         for i in championDict:
             name = list(keys.keys())[
                 list(keys.values()).index(i['championId'])]
-
             date = time.strftime("%a, %d %b %Y %H:%M:%S +0000",
                                  time.localtime(i['lastPlayTime']/1000))
             datetime_object = datetime.datetime.strptime(
@@ -82,12 +81,11 @@ class LeagueProfile():
         xlabels = []
         y = []
         for i in newarr[:10]:
-            
+
             x.append(i['lastDate'])
             xlabels.append(str(i['lastDate'])[0:10])
             y.append(i['name'])
-            
-            
+
         # make up some data
         # x = [datetime.datetime.now() + datetime.timedelta(hours=i) for i in range(12)]
         # y = [i+random.gauss(0, 1) for i, _ in enumerate(x)]
@@ -96,12 +94,15 @@ class LeagueProfile():
 
         plt.plot(x, y)
 
-        plt.xticks(x, xlabels, rotation=75)
+        plt.xticks(x, xlabels, rotation=35)
         # beautify the x-label
         fig = matplotlib.pyplot.gcf()
         fig.set_size_inches(15, 8)
-        plt.savefig('./'+lp.SummonerName+'-oldest.png')
 
+        plt.savefig('./OldestChamps/'+lp.SummonerName+'-oldest.png')
+        newarr2 = newarr
+        with open('./OldestChamps/'+lp.SummonerName+'-oldest.json', 'w') as outfile:
+            json.dump(newarr2, outfile)
         # with open('./'+lp.SummonerName+'-oldest.json', 'w') as outfile:
         #     json.dump(x, outfile)
 
