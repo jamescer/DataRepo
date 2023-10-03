@@ -1,4 +1,4 @@
-﻿astroid==2.3.3
+astroid==2.3.3
 autopep8==1.5
 colorama==0.4.3
 cycler==0.10.0
@@ -8,7 +8,7 @@ lazy-object-proxy==1.4.3
 matplotlib==3.1.2
 mccabe==0.6.1
 numpy==1.18.1
-Pillow==8.3.2
+Pillow==10.0.1
 pycodestyle==2.5.0
 pylint==2.4.4
 pyparsing==2.4.6
